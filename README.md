@@ -11,9 +11,6 @@ This is a solution to the [Space tourism website challenge on Frontend Mentor](h
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-- [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
 **Note: Delete this note and update the table of contents based on what sections you keep.**
@@ -30,13 +27,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./preview)
 ![](./Nest-Hub-Max.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Mohamed-Magdy-fayed/space-tourism-website-main)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Github repo](https://github.com/Mohamed-Magdy-fayed/space-tourism-website-main)
+- Live Site URL: [Space Tourism](https://mohamed-magdy-fayed.github.io/space-tourism-website-main/)
 
 ## My process
 
